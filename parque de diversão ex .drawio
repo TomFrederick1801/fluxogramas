@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="5ZD4Xox5dC8LSgrAU2gi">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YHNSnACTVyfw__MVWA90-4" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-6" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler idade, altura" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-9" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-10" connectable="0" parent="YHNSnACTVyfw__MVWA90-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2174" y="-5" as="geometry">
+            <mxPoint x="-2" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-14" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-15" connectable="0" parent="YHNSnACTVyfw__MVWA90-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não" vertex="1">
+          <mxGeometry relative="1" x="0.0133" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="idade&amp;lt;=0 ou Altura&amp;lt;=0" vertex="1">
+          <mxGeometry height="110" width="104" x="362" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-12" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp;escrever &quot;dados inválidos&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim" vertex="1">
+          <mxGeometry height="80" width="120" x="700" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-24" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-29" connectable="0" parent="YHNSnACTVyfw__MVWA90-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não" vertex="1">
+          <mxGeometry relative="1" x="-0.2941" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="idade &amp;lt; 12&amp;nbsp;" vertex="1">
+          <mxGeometry height="120" width="104" x="362" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-20" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever &quot; não pode andar na atração&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-18" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" target="YHNSnACTVyfw__MVWA90-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-19" connectable="0" parent="YHNSnACTVyfw__MVWA90-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.0546" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-26" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YHNSnACTVyfw__MVWA90-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-28" connectable="0" parent="YHNSnACTVyfw__MVWA90-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="0.0909" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-31" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="YHNSnACTVyfw__MVWA90-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="973.6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-32" connectable="0" parent="YHNSnACTVyfw__MVWA90-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não" vertex="1">
+          <mxGeometry relative="1" x="-0.3662" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Altura &amp;lt; 140" vertex="1">
+          <mxGeometry height="120" width="120" x="354" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-27" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YHNSnACTVyfw__MVWA90-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-25" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever &quot;pode andar na atração acompanhado por um adulto &quot;" vertex="1">
+          <mxGeometry height="110" width="160" x="530" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-33" edge="1" parent="1" source="YHNSnACTVyfw__MVWA90-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YHNSnACTVyfw__MVWA90-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHNSnACTVyfw__MVWA90-30" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp;escrever &quot;pode andar sozinho&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="930" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

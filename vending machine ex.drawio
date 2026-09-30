@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="sWeeYxo5k1GQHNs2TY9s">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GV9BbiFbSKWSidkehxsE-6" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-8" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GV9BbiFbSKWSidkehxsE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="mostrar as opções 1,2,3,4" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-10" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler &quot;opção&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-13" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-16" connectable="0" parent="GV9BbiFbSKWSidkehxsE-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-15" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-17" connectable="0" parent="GV9BbiFbSKWSidkehxsE-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não" vertex="1">
+          <mxGeometry relative="1" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="opção = 1&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="110" x="350" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bebida = &quot;café&quot;, preço 0.80" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-21" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-24" connectable="0" parent="GV9BbiFbSKWSidkehxsE-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.1789" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-23" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-25" connectable="0" parent="GV9BbiFbSKWSidkehxsE-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não" vertex="1">
+          <mxGeometry relative="1" x="-0.3867" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="opção =2&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="365" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bebida&amp;nbsp; = &quot;chá&quot;, preço 1.00" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-27" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-38" connectable="0" parent="GV9BbiFbSKWSidkehxsE-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-29" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-39" connectable="0" parent="GV9BbiFbSKWSidkehxsE-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não" vertex="1">
+          <mxGeometry relative="1" x="-0.0889" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="opção = 3&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bebida &quot;chocolate quente&quot; preço 1.20" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-31" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="GV9BbiFbSKWSidkehxsE-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-37" connectable="0" parent="GV9BbiFbSKWSidkehxsE-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-33" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-34" connectable="0" parent="GV9BbiFbSKWSidkehxsE-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.2267" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="opção = 4&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bebida &quot;cappucciono&quot; preço 1.50" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-36" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GV9BbiFbSKWSidkehxsE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-32" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever &quot;opção inválida&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-35" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Mostrar &quot;nome da bebida e o preço&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim" vertex="1">
+          <mxGeometry height="80" width="120" x="570" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="GV9BbiFbSKWSidkehxsE-41" edge="1" parent="1" source="GV9BbiFbSKWSidkehxsE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.058;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" target="GV9BbiFbSKWSidkehxsE-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
